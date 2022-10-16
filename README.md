@@ -1,4 +1,17 @@
-## Olá seja bem vindo(a) ao meu repositório, eu sou o BrunoSampayo 🙂
+# Olá , eu sou o BrunoSampayo 
+
+
+
+### Sou Apaixonado por desenvolvimento
+
+
+- Atualmente tenho focado nos estudos principalmente no front-end
+- Tenho caracterista de ser curioso pois gosto de saber como funciona o sistema por tras de todo o visual
+- Voce pode me encontrar pelo email **brunosampayo1040@gmail.com** 
+
+<h3 align="center">Atualmente utilizo as seguintes linguagens</h3>
+
+
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
